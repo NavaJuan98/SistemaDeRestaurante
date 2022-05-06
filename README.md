@@ -22,8 +22,8 @@ Desarrollar un sistema de restaurante en entorno web, en el periodo de 23 de ago
   * Los administradores podrán utilizar el sistema para agregar nuevos platillos a su menú con el respectivo nombre, descripcion, imagen y precio con el     que el platillo cuenta.
 
 ### Aspectos Técnicos:
-`
-**Plataforma Web**
+
+`**Plataforma Web**
 
 **Software:** Suite de google(One Drive).
 
@@ -55,5 +55,4 @@ Desarrollar un sistema de restaurante en entorno web, en el periodo de 23 de ago
 
 **Líder del proyecto:** Juan Ramon Nava Gallardo.
 
-**Organización del proyecto, Análisis, Diseño, Desarrollo e implementación:** Juan Ramón Nava Gallardo.
-`
+**Organización del proyecto, Análisis, Diseño, Desarrollo e implementación:** Juan Ramón Nava Gallardo.`
