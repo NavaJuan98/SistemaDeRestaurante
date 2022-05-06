@@ -23,8 +23,6 @@ Desarrollar un sistema de restaurante en entorno web, en el periodo de 23 de ago
 
 ### Aspectos Técnicos:
 
-#### **Plataforma Web**
-
 **Software:** Suite de google(One Drive).
 
 **Architecture:**                	x86_64
