@@ -5,7 +5,7 @@ A Simple Restaurant System Managment
 >> En la actualidad con el avance de la tecnologia se ha logrado implementar mucho de lo que en persona se tenia que realizar a realizarlo desde la comodidad de la casa sin necesidad de estar fisicamente en el lugar para poder hacerlo, es decir, de una forma "virtual". Esto quiere decir que podemos ya sea comprar, vender o solicitar algo mediante internet con el simple uso de la tecnologia, entre ello se suelen solicitar diversos productos como lo son los productos empaquetados o hasta una comida!.
 
 ## Descripcion
->> El sistema de información a desarrollar se encargará de mantener un registro de las comidas con las que cuenta un restaurante, esto con la finalidad de brindar un servicio a uno o mas clientes.
+> El sistema de información a desarrollar se encargará de mantener un registro de las comidas con las que cuenta un restaurante, esto con la finalidad de brindar un servicio a uno o mas clientes.
 Este sistema permitirá que los clientes puedan seleccionar el platillo que les interese consumir en base a ya sea una descripcion, el precio o como se visualiza en la imagen. Esto facilitara al consumidor poder optar por la mejor opcion que le convenga.
 
 A través de la plataforma o entorno web, se le facilitará a los administradores y clientes una interfase intuitiva que permita al usuario tener un amplio control de las acciones que este mismo puede realizar otorgando la posibilidad de realizar sus compras a los clientes o incluir en el menu nuevos platillos, este ultimo punto solo para los administradores del sistema.
