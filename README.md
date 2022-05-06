@@ -23,16 +23,19 @@ Desarrollar un sistema de restaurante en entorno web, en el periodo de 23 de ago
 
 ### Aspectos Técnicos:
 
-* Plataforma Web
+**Plataforma Web**
 
-**Software:** Suite de google(One Drive).<br>
-**Architecture:**                	x86_64<br>
-**CPU op-mode(s):**              	32-bit, 64-bit<br>
-**CPU(s):**                      	4<br>
-**CPU family:**                  	6<br>
-**Model name:**             	     Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz<br>
+**Software:** Suite de google(One Drive).
 
+**Architecture:**                	x86_64
 
+**CPU op-mode(s):**              	32-bit, 64-bit
+
+**CPU(s):**                      	4
+
+**CPU family:**                  	6
+
+**Model name:**             	     Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz
 
 **Base De Datos:** Base de Datos Relacional - MariaDb(Versión 10.0.17).
 
