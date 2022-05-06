@@ -25,38 +25,34 @@ Desarrollar un sistema de restaurante en entorno web, en el periodo de 23 de ago
 
 > **Plataforma Web**
 
-**Software:** Suite de google(One Drive).
+> **Software:** Suite de google(One Drive).
 
-**Architecture:**                	x86_64
+> **Architecture:**                	x86_64
 
-**CPU op-mode(s):**              	32-bit, 64-bit
+> **CPU op-mode(s):**              	32-bit, 64-bit
 
-**CPU(s):**                      	4
+> **CPU(s):**                      	4
 
-**CPU family:**                  	6
+> **CPU family:**                  	6
 
-**Model name:**             	     Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz
+> **Model name:**             	     Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz
 
-**Base De Datos:** Base de Datos Relacional - MariaDb(Versión 10.0.17).
+> **Base De Datos:** Base de Datos Relacional - MariaDb(Versión 10.0.17).
 
-**Servidores a usar:** Heroku.
+> **Servidores a usar:** Heroku.
 
-**Lenguajes a Utilizar:** Html, Css, Javascript, Php.
+> **Lenguajes a Utilizar:** Html, Css, Javascript, Php.
 
-**Herramientas de Desarrollo:** Visual Studio Code, PhpStorm.
+> **Herramientas de Desarrollo:** Visual Studio Code, PhpStorm.
 
-**Herramientas adicionales utilizadas:** Bootstrap, Jquery, Laravel.
+> **Herramientas adicionales utilizadas:** Bootstrap, Jquery, Laravel.
 
-**Fecha de Inicio:** 23 de Agosto del 2021.
+> **Fecha de Inicio:** 23 de Agosto del 2021.
 
-**Fecha de cierre:** 06 de Diciembre del 2021.
+> **Fecha de cierre:** 06 de Diciembre del 2021.
 
-**Área Solicitante:** Facultad de Ingeniería y Ciencias.
+> **Área Solicitante:** Facultad de Ingeniería y Ciencias.
 
-**Líder del proyecto:** Juan Ramon Nava Gallardo.
+> **Líder del proyecto:** Juan Ramon Nava Gallardo.
 
-**Organización del proyecto, Análisis, Diseño, Desarrollo e implementación:** Juan Ramón Nava Gallardo.
-
-
-
-
+> **Organización del proyecto, Análisis, Diseño, Desarrollo e implementación:** Juan Ramón Nava Gallardo.
