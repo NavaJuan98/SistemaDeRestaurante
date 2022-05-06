@@ -13,7 +13,7 @@ No obstante, la aplicación contará con una sección de reportes donde los admi
 
 
 ### Objetivo General
-Desarrollar un sistema de hospital en entorno web, en el periodo de 23 de agosto del 2021 hasta el 06 de diciembre del 2021 por parte de la Facultad de Ingeniería y Ciencias, el cual sea eficiente y cumpla con lo estipulado en tiempo y forma, es decir, que se llegue a alcanzar las funcionalidades fundamentales requeridas que en este caso es el **poder solicitar diversos platillos de un negocio gastronómico**.
+Desarrollar un sistema de restaurante en entorno web, en el periodo de 23 de agosto del 2021 hasta el 06 de diciembre del 2021 por parte de la Facultad de Ingeniería y Ciencias, el cual sea eficiente y cumpla con lo estipulado en tiempo y forma, es decir, que se llegue a alcanzar las funcionalidades fundamentales requeridas que en este caso es el **poder solicitar diversos platillos de un negocio gastronómico**.
 
 ### Objetivo Especificos
   * Dar de alta usuarios(Los usuarios finales que utilizarán el sistema que en este caso son; los administradores y clientes). 
