@@ -1,4 +1,4 @@
-# SistemaDeRestaurante
+# Sistema De Restaurante
 
 ### Contexto
 En la actualidad con el avance de la tecnologia se ha logrado implementar mucho de lo que en persona se tenia que realizar a realizarlo desde la comodidad de la casa sin necesidad de estar fisicamente en el lugar para poder hacerlo, es decir, de una forma "virtual". Esto quiere decir que podemos ya sea comprar, vender o solicitar algo mediante internet con el simple uso de la tecnologia, entre ello se suelen solicitar diversos productos como lo son los productos empaquetados o hasta una comida!.
