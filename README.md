@@ -1,5 +1,5 @@
 # SistemaDeRestaurante
-A Simple Restaurant System Managment
+> A Simple Restaurant System Managment
 
 ### Contexto
 > En la actualidad con el avance de la tecnologia se ha logrado implementar mucho de lo que en persona se tenia que realizar a realizarlo desde la comodidad de la casa sin necesidad de estar fisicamente en el lugar para poder hacerlo, es decir, de una forma "virtual". Esto quiere decir que podemos ya sea comprar, vender o solicitar algo mediante internet con el simple uso de la tecnologia, entre ello se suelen solicitar diversos productos como lo son los productos empaquetados o hasta una comida!.
@@ -22,6 +22,6 @@ Este sistema permitirá que los clientes puedan seleccionar el platillo que les 
   * Validar la cantidad de platillos que el usuario requiere y que el restaurante puede entregar o hacer envio.
   * Los administradores podrán utilizar el sistema para agregar nuevos platillos a su menú con el respectivo nombre, descripcion, imagen y precio con el     que el platillo cuenta.
 
-## Requerimientos Funcionales
+### Requerimientos Funcionales
 
-## Requerimientos No Funcionales
+### Requerimientos No Funcionales
