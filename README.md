@@ -25,12 +25,12 @@ Desarrollar un sistema de restaurante en entorno web, en el periodo de 23 de ago
 
 * Plataforma Web
 
-* Software: Suite de google(One Drive).
-* Architecture:                	x86_64
-* CPU op-mode(s):              	32-bit, 64-bit
-* CPU(s):                      	4
-* CPU family:                  	6
-* Model name:             	     Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz
+**Software:** Suite de google(One Drive).
+**Architecture:**                	x86_64
+**CPU op-mode(s):**              	32-bit, 64-bit
+**CPU(s):**                      	4
+**CPU family:**                  	6
+**Model name:**             	     Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz
 
 
 
